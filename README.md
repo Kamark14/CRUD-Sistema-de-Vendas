@@ -177,6 +177,6 @@ Este projeto serve como base para qualquer **CRUD com Node.js e MongoDB**, poden
 
 ---
 
-## 💬 Autor
+## 💬 Autor:
 
-**Ka Mark**  
+**KaMark14**  
