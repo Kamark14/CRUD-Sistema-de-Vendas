@@ -22,7 +22,6 @@ Um sistema backend simples e funcional para registrar, consultar, atualizar e de
 📦 crud
 ├── 📄 .env
 ├── 📄 package.json
-├── 📄 prompt.txt
 ├── 📄 server.js
 └── 📄 VendaMensal.js
 ```
